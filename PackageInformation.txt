@@ -1,0 +1,3 @@
+npm install react-tsparticles:-
+npm  install tsparticles
+npm install typed.js
